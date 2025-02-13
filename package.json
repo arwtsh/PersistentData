@@ -1,0 +1,33 @@
+{
+  "name": "com.jjasundry.persistentdata",
+  "version": "1.0.0",
+  "displayName": "Persistent Data",
+  "description": "A Unity package that makes adding save states and settings for the game easy.",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/arwtsh/PersistentData/blob/main/Documentation~/persistentdata.md",
+  "changelogUrl": "https://github.com/arwtsh/PersistentData/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/arwtsh/PersistentData/blob/main/LICENSE.MD",
+  "dependencies": {
+ },
+ "keywords": [
+    "Settings",
+    "Save",
+    "Load",
+    "Data",
+    "Persistent"
+  ],
+  "author": {
+    "name": "Adam White",
+    "email": "jjasundry+gamedev@gmail.com",
+    "url": "https://www.linkedin.com/in/adamwhite302/"
+  },
+  "hideInEditor": "false",
+  "license": "CC-BY-4.0",
+  "samples": [
+    {
+       "displayName": "Settings Example",
+       "description": "Shows the basics on how to use this package.",
+       "path": "Samples~/Settings"
+    }
+  ]
+}
